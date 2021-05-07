@@ -326,5 +326,10 @@ div.cut-corner:before {
     text-decoration: none;
 }
 
+.logo img {
+  height: 50px;
+  width: 100px;
+}
+
 
 
