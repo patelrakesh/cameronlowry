@@ -215,6 +215,13 @@ html {
 .spaces_bottom_details .icon{
   margin-right: 5px;
 }
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background: linear-gradient(70deg, #ffffff 0%, #06325a 75%);
+  align-items: center;
+}
 .footer .website{
   text-align: right;
 }
@@ -283,8 +290,11 @@ html {
 
  
 .more1 {
-  padding: 12px 14px 12px 20px !important;
   margin: 15px 0px 10px 10px !important;
+  padding: 10px 10px 12px 10px !important;
+}
+.spaces .head_space .more1 a {
+  margin-right: 0;
 }
 div.cut-corner {
   position: relative;
